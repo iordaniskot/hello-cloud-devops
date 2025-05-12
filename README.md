@@ -10,6 +10,7 @@ This repository contains a simple Flask web application that you'll use to learn
 - Integrate cloud services like Azure Storage into your applications
 - Use Azure SQL Database to manage application data
 
+
 ## 📘 Assignments
 
 0. **[Configure Your Environment](assignment-0-configure-environment.md)**  
